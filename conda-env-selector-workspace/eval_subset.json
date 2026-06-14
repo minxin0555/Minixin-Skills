@@ -1,0 +1,7 @@
+[
+  {"query": "我在 ~/Desktop/code/tomato-classifier 这个目录下，跑 python train.py 报 ModuleNotFoundError: No module named 'torch'，帮我把它跑起来", "should_trigger": true},
+  {"query": "装个 requests 和 bs4 然后跑一下我这个爬虫 spider.py", "should_trigger": true},
+  {"query": "帮我执行一下 scripts/evaluate.py，它好像用到了 numpy 和 matplotlib", "should_trigger": true},
+  {"query": "用 node 跑一下这个 index.js 看看输出对不对", "should_trigger": false},
+  {"query": "解释一下 ModuleNotFoundError 这个报错到底是什么意思", "should_trigger": false}
+]

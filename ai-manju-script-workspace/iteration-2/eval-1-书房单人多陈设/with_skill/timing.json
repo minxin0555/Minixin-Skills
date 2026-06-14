@@ -1,0 +1,7 @@
+{
+  "total_tokens": 50000,
+  "duration_ms": 122442,
+  "total_duration_seconds": 122.4,
+  "tool_uses": 6,
+  "note": "subagent 跑完后 result 被配额掐断，token 计数不准；duration_ms 来自 task 通知，准确"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "bio-figure",
+  "slug": "bio-figure",
+  "type": "figure-generator",
+  "version": "1.0",
+  "description": "Publication-grade single-figure generator for biology / bioinformatics. Four-mode workflow (direct / recommend-with-data / recommend-without-data / batch), conclusion-first integrity gate, journal palettes + same-hue sequential, English Arial labels, PDF + ≥600dpi PNG archived under AI-figure/.",
+  "created_at": "2026-06-14T00:00:00Z",
+  "updated_at": "2026-06-14T00:00:00+08:00",
+  "language": "en",
+  "backend": {
+    "default": "python",
+    "alt": "r-light"
+  },
+  "tags": [
+    "bioinformatics",
+    "figures",
+    "matplotlib",
+    "seaborn",
+    "scanpy",
+    "volcano-plot",
+    "heatmap",
+    "umap",
+    "kaplan-meier",
+    "manhattan",
+    "enrichment",
+    "journal-palettes",
+    "colorblind-safe",
+    "single-cell",
+    "publication-figure"
+  ]
+}
