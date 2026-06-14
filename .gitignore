@@ -1,0 +1,17 @@
+# Novel-related skills
+/ai-long-novel-writing/
+/ai-manju-script/
+/ai-novel-*/
+/nvpin-*/
+
+# Backups for novel-related skills
+/_backup/ai-long-novel-writing/
+/_backup/ai-manju-script/
+/_backup/ai-novel-*/
+/_backup/nvpin-*/
+
+# Temporary workspace
+/temp/
+
+# Local workflow notes
+/WORKFLOW.md
