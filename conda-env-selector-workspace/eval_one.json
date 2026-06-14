@@ -1,3 +1,0 @@
-[
-  {"query": "我在 ~/Desktop/code/tomato-classifier 这个目录下，跑 python train.py 报 ModuleNotFoundError: No module named 'torch'，帮我把它跑起来", "should_trigger": true}
-]

@@ -1,7 +1,0 @@
-{
-  "total_tokens": 45000,
-  "duration_ms": 129000,
-  "total_duration_seconds": 129.0,
-  "tool_uses": 6,
-  "note": "subagent 配额耗尽未跑成功；该输出由主代理按 v1.4 规则手工生成，timing 为估算值（与 iteration-1 同 eval 的实际 subagent timing 129s 对齐）"
-}
